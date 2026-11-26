@@ -1,0 +1,22 @@
+[
+  {
+    "id": "change1",
+    "request": "req1",
+    "action": "withdraw_purpose",
+    "purpose": "押金付款关系答疑",
+    "time": "2026-06-02",
+    "refs": [
+      "req1"
+    ]
+  },
+  {
+    "id": "change2",
+    "request": "req1",
+    "action": "clarify",
+    "text": "May是工作人员，和我没有亲属关系。",
+    "time": "2026-06-03",
+    "refs": [
+      "req1"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "doc-adviser",
+    "purpose": "申请材料姓名和签字资格核对",
+    "needed_facts": [
+      "申请人与签字人关系",
+      "材料中名字对应关系"
+    ]
+  },
+  {
+    "id": "fund-adviser",
+    "purpose": "押金付款关系答疑",
+    "needed_facts": [
+      "付款人与申请人关系",
+      "是否同一押金"
+    ]
+  },
+  {
+    "id": "school-contact",
+    "purpose": "学校办理材料对接",
+    "needed_facts": [
+      "材料中申请人识别信息"
+    ]
+  },
+  {
+    "id": "travel-adviser",
+    "purpose": "接机事项咨询",
+    "needed_facts": [
+      "抵达事项和联系人角色"
+    ]
+  }
+]

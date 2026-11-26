@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tr1",
+    "request": "req1",
+    "recipient": "fund-adviser",
+    "issued_text": "申请人甲的母亲乙为甲支付押金。请只解释这笔款项的归属。",
+    "private_aliases": {
+      "申请人甲": "owner-a",
+      "母亲乙": "owner-a-mother"
+    },
+    "refs": [
+      "req1",
+      "fund-adviser"
+    ]
+  },
+  {
+    "id": "tr2",
+    "request": "req1",
+    "recipient": "doc-adviser",
+    "issued_text": "申请人丁的 offer 写 Lin Lan，护照也写 Lin Lan。学校联系人为戊。",
+    "private_aliases": {
+      "申请人丁": "owner-a",
+      "戊": "school-may"
+    },
+    "refs": [
+      "req1",
+      "doc-adviser"
+    ]
+  }
+]

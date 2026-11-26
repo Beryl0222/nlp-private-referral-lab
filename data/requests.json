@@ -1,0 +1,20 @@
+[
+  {
+    "id": "req1",
+    "owner": "owner-a",
+    "text": "我叫林岚。妈妈林澜帮我付了押金。她说 offer 上 Lin Lan 的名字和护照一样，但是 school contact May 是另一位。请帮我看学校材料，不用告诉学校家里的付款情况。手机13800001001。",
+    "consent_text": "允许材料专家了解申请文件；允许资金顾问了解押金关系。学校联系人不得收到家庭付款情况。"
+  },
+  {
+    "id": "req2",
+    "owner": "owner-b",
+    "text": "My name is Lin Lan too, unrelated to the other applicant. My aunt signed the letter; she is not my guardian. Can the adviser check who should sign?",
+    "consent_text": "只允许签字事项顾问查看亲属关系，不提供电话及证件号。"
+  },
+  {
+    "id": "req3",
+    "owner": "owner-c",
+    "text": "阿姨说她那边已经确认，她指的是学校的May，不是我亲戚。我只需要确认接机安排，不想讨论费用。",
+    "consent_text": "只转交通事项，不转费用。"
+  }
+]
